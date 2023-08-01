@@ -2,9 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "mapsRinteractive"]
-	path = mapsRinteractive
-	url = https://github.com/ymutua/mapsrinteractive
 [submodule "SurfaceTortoise"]
 	path = SurfaceTortoise
 	url = https://github.com/ymutua/surfacetortoise
+[submodule "mapsRinteractive"]
+	path = mapsRinteractive
+	url = https://github.com/ymutua/mapsrinteractive
